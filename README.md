@@ -17,3 +17,4 @@ index.html      # Arquivo principal .html
 - Gerar um conselho aleatório.
 
 ![image](https://github.com/user-attachments/assets/16ba80e7-4c87-4869-880b-4060c3f9814d)
+
