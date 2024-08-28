@@ -1,12 +1,12 @@
-## Sobre o Projeto:
+<h1 style="color: #ff0000">Este texto será vermelho.</h1>
 Este projeto foi feito com o intuito de gerar conselhos aleatórios para seus usuários.
 
 ## Estrutura de Pastas:
-/assets         # Organização de ativos
-  /css          # Arquivos .css
-  /images       # Arquivos de imagem
-  /scripts      # Arquivos .js
-index.html      # Arquivo principal .html
+ /assets         # Organização de ativos <br/>
+   /css          # Arquivos .css  <br/>
+   /images       # Arquivos de imagem  <br/>
+   /scripts      # Arquivos .js  <br/>
+ index.html      # Arquivo principal .html  <br/>
 
 ## Tecnologias utilizadas:
 - **HTML**: Linguagem de marcação utilizada na construção da página.
