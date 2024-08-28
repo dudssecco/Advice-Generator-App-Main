@@ -1,4 +1,4 @@
-<h1 style="color: #ff0000">Este texto será vermelho.</h1>
+## Sobre o Projeto:
 Este projeto foi feito com o intuito de gerar conselhos aleatórios para seus usuários.
 
 ## Estrutura de Pastas:
