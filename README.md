@@ -1,20 +1,12 @@
-## Sobre o Projeto:
-Este projeto foi feito com o intuito de gerar conselhos aleatórios para seus usuários.
+# 🔹 Advice Generator App
 
-## Estrutura de Pastas:
- /assets         # Organização de ativos <br/>
-   /css          # Arquivos .css  <br/>
-   /images       # Arquivos de imagem  <br/>
-   /scripts      # Arquivos .js  <br/>
- index.html      # Arquivo principal .html  <br/>
+A fun and interactive advice generator app that pulls random advice from the Advice Slip API. Built with JavaScript, HTML, and CSS, this app showcases responsive design, optimized for all screen sizes. Users can click the dice icon to generate a fresh piece of advice, and hover states make the interactive elements more engaging.
 
-## Tecnologias utilizadas:
-- **HTML**: Linguagem de marcação utilizada na construção da página.
-- **CSS**: Linguagem de estilização utilizada no design da página.
-- **JavaScript**: Linguagem de programação utilizada no projeto.
+Because who doesn't need some random advice, right?
 
-## Funcionalidades:
-- Gerar um conselho aleatório.
+## Tecnologies Utilized:
 
-![image](https://github.com/user-attachments/assets/16ba80e7-4c87-4869-880b-4060c3f9814d)
-
+- JavaScript
+- HTML5
+- CSS3
+- Advice Slip API
